@@ -8,14 +8,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Merriweather';
+  font-family: 'Kaushan Script', cursive;
   font-weight: 700;
 }
 
 body {
   height: 100%;
   position: relative;
-  font-family: 'Source Sans Pro';
+  font-family: 'Open Sans Condensed';
   font-weight: 300;
 }
 
@@ -48,11 +48,11 @@ body {
 }
 
 .masthead .masthead-content h1 {
-  font-size: 2.5rem;
+  font-size: 2 rem;
 }
 
 .masthead .masthead-content p {
-  font-size: 1.2rem;
+  font-size: 1 rem;
 }
 
 .masthead .masthead-content p strong {
@@ -90,7 +90,7 @@ body {
     font-size: 3.5rem;
   }
   .masthead .masthead-content p {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
 }
 
